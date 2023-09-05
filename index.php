@@ -8,7 +8,7 @@
 <form name="reverseText" action="papar.php" method="POST">
     <label>Ceritakan tentang diri anda:</label>
     <br>
-    <textarea></textarea>
+    <textarea id="textinput" name="textinput"></textarea>
     <br>
     <button type="submit">Simpan</button>
 </form>
